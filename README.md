@@ -1,6 +1,3 @@
-Claro! Aqui está o texto em markdown para o seu arquivo README.md:
-
-````markdown
 # Livraria
 
 Projeto desenvolvido para a disciplina de Programação para Internet, utilizando Spring Boot, JPA e PostgreSQL.
